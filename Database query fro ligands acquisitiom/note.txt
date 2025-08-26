@@ -1,0 +1,8 @@
+Group	Antibiotic Class 
+A	Fluoroquinolones	
+B	Cephalosporins	
+C	Aminoglycosides	
+D	Levofloxacin
+
+
+This folder contains the initial compounds belonging to the following groups: fluoroquinolones (Group A), cephalosporins (Group B), aminoglycosides (Group C), and levofloxacin (Group D), downloaded from the PubChem database. Pharmacophore modeling was then used to generate their respective pharmer.query files. These files were subsequently used to query the database and generate ligands for docking in the main directory

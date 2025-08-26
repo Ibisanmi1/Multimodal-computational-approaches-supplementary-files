@@ -1,0 +1,24 @@
+# This file was created Sat Aug 16 10:41:52 2025
+# Created by:
+#                  :-) GROMACS - gmx sasa, 2021.1-MODIFIED (-:
+# 
+# Executable:   /srv/scratch/mrcseq/peptideproject/alphafold/miniconda/envs/gromacs/bin.AVX2_256/gmx
+# Data prefix:  /srv/scratch/mrcseq/peptideproject/alphafold/miniconda/envs/gromacs
+# Working dir:  /srv/scratch/mrcbio/shima_data/fastq/clonemd/old/amino/500nscharmm-gui-3688416952/gromacs/structural_analysis
+# Command line:
+#   gmx sasa -s ../md.tpr -f ../md_noWAT_noPBC_noJUMP_fit.xtc -n ../index.ndx -o sasa_rec.xvg -or resarea_rec.xvg -surface 1
+# gmx sasa is part of G R O M A C S:
+#
+# GRoups of Organic Molecules in ACtion for Science
+#
+@    title "Solvent Accessible Surface"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "Area (nm\S2\N)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Total"

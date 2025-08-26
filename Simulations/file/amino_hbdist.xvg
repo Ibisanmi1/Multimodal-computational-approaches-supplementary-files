@@ -1,0 +1,87 @@
+# This file was created Sat Aug 16 10:41:51 2025
+# Created by:
+#                  :-) GROMACS - gmx hbond, 2021.1-MODIFIED (-:
+# 
+# Executable:   /srv/scratch/mrcseq/peptideproject/alphafold/miniconda/envs/gromacs/bin.AVX2_256/gmx
+# Data prefix:  /srv/scratch/mrcseq/peptideproject/alphafold/miniconda/envs/gromacs
+# Working dir:  /srv/scratch/mrcbio/shima_data/fastq/clonemd/old/amino/500nscharmm-gui-3688416952/gromacs/structural_analysis
+# Command line:
+#   gmx hbond -s ../md.tpr -f ../md_noWAT_noPBC_noJUMP_fit.xtc -n ../index.ndx -num protein-ligand_hbonds.xvg -dan protein-ligand_HBA_HBD.xvg -g hbond.log -dist hbdist.xvg -tu ns -nthreads 8
+# gmx hbond is part of G R O M A C S:
+#
+# Grunge ROck MAChoS
+#
+@    title "Hydrogen Bond Distribution"
+@    xaxis  label "Donor - Acceptor Distance (nm)"
+@    yaxis  label ""
+@TYPE xy
+    0.0025          0
+    0.0075          0
+    0.0125 8.94609e-06
+    0.0175 1.25245e-05
+    0.0225 3.22059e-05
+    0.0275 5.00981e-05
+    0.0325 6.26226e-05
+    0.0375 8.76716e-05
+    0.0425 0.000155662
+    0.0475 0.000155662
+    0.0525 0.000196814
+    0.0575 0.000220074
+    0.0625 0.000266593
+    0.0675 0.000304167
+    0.0725 0.000352476
+    0.0775 0.000400785
+    0.0825 0.000463407
+    0.0875 0.00052603
+    0.0925 0.000556446
+    0.0975 0.000624437
+    0.1025 0.000706741
+    0.1075 0.000763996
+    0.1125 0.000837354
+    0.1175 0.000926814
+    0.1225 0.00103954
+    0.1275 0.00112363
+    0.1325 0.00127571
+    0.1375 0.00138664
+    0.1425 0.00150831
+    0.1475 0.00149579
+    0.1525 0.00152799
+    0.1575 0.00178922
+    0.1625 0.00178206
+    0.1675 0.00187689
+    0.1725 0.00226694
+    0.1775 0.00222579
+    0.1825 0.00244228
+    0.1875 0.00251922
+    0.1925 0.00261226
+    0.1975 0.00284128
+    0.2025 0.00297905
+    0.2075 0.00308998
+    0.2125 0.00322059
+    0.2175 0.00350329
+    0.2225 0.00357664
+    0.2275 0.00377346
+    0.2325 0.00390944
+    0.2375 0.00471101
+    0.2425  0.0178528
+    0.2475   0.120065
+    0.2525   0.543725
+    0.2575    1.69987
+    0.2625    4.13508
+    0.2675    8.05819
+    0.2725      12.72
+    0.2775    16.8065
+    0.2825    19.2928
+    0.2875    19.9701
+    0.2925    19.1622
+    0.2975     17.465
+    0.3025    15.3357
+    0.3075    13.1423
+    0.3125    11.0991
+    0.3175    9.26185
+    0.3225    7.71429
+    0.3275    6.43025
+    0.3325    5.36545
+    0.3375     4.5073
+    0.3425    3.82157
+    0.3475    3.26456
