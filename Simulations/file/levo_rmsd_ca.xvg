@@ -2,12 +2,6 @@
 # Created by:
 #                       :-) GROMACS - gmx rms, 2023.3 (-:
 # 
-# Executable:   /mnt/c/Windows/System32/base/gromacs/gromacs-2023.3/bin/gmx
-# Data prefix:  /mnt/c/Windows/System32/base/gromacs/gromacs-2023.3
-# Working dir:  /home/tp/base1/old/newlevo/code/charmm-gui-3740282417/gromacs/structural_analysis
-# Command line:
-#   gmx rms -s ../md.tpr -f ../md_noWAT_noPBC_noJUMP_fit.xtc -o rmsd_ca.xvg -tu ns -fit rot+trans
-# gmx rms is part of G R O M A C S:
 #
 # God Rules Over Mankind, Animals, Cosmos and Such
 #

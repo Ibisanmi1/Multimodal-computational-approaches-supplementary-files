@@ -2,12 +2,6 @@
 # Created by:
 #                  :-) GROMACS - gmx sasa, 2021.1-MODIFIED (-:
 # 
-# Executable:   /srv/scratch/mrcseq/peptideproject/alphafold/miniconda/envs/gromacs/bin.AVX2_256/gmx
-# Data prefix:  /srv/scratch/mrcseq/peptideproject/alphafold/miniconda/envs/gromacs
-# Working dir:  /srv/scratch/mrcbio/shima_data/fastq/clonemd/old/topefluoro/500ns/charmm-gui-3451126462/gromacs/structural_analysis
-# Command line:
-#   gmx sasa -s ../md.tpr -f ../md_noWAT_noPBC_noJUMP_fit.xtc -n ../index.ndx -o sasa_com.xvg -or resarea_com.xvg -surface 0
-# gmx sasa is part of G R O M A C S:
 #
 # Giant Rising Ordinary Mutants for A Clerical Setup
 #

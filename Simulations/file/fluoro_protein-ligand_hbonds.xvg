@@ -2,12 +2,6 @@
 # Created by:
 #                  :-) GROMACS - gmx hbond, 2021.1-MODIFIED (-:
 # 
-# Executable:   /srv/scratch/mrcseq/peptideproject/alphafold/miniconda/envs/gromacs/bin.AVX2_256/gmx
-# Data prefix:  /srv/scratch/mrcseq/peptideproject/alphafold/miniconda/envs/gromacs
-# Working dir:  /srv/scratch/mrcbio/shima_data/fastq/clonemd/old/topefluoro/500ns/charmm-gui-3451126462/gromacs/structural_analysis
-# Command line:
-#   gmx hbond -s ../md.tpr -f ../md_noWAT_noPBC_noJUMP_fit.xtc -n ../index.ndx -num protein-ligand_hbonds.xvg -dan protein-ligand_HBA_HBD.xvg -g hbond.log -dist hbdist.xvg -tu ns -nthreads 8
-# gmx hbond is part of G R O M A C S:
 #
 # Gravel Rubs Often Many Awfully Cauterized Sores
 #

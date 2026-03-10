@@ -2,12 +2,6 @@
 # Created by:
 #                  :-) GROMACS - gmx rmsf, 2021.1-MODIFIED (-:
 # 
-# Executable:   /srv/scratch/mrcseq/peptideproject/alphafold/miniconda/envs/gromacs/bin.AVX2_256/gmx
-# Data prefix:  /srv/scratch/mrcseq/peptideproject/alphafold/miniconda/envs/gromacs
-# Working dir:  /srv/scratch/mrcbio/shima_data/fastq/clonemd/old/amino/500nscharmm-gui-3688416952/gromacs/structural_analysis
-# Command line:
-#   gmx rmsf -s ../md.tpr -f ../md_noWAT_noPBC_noJUMP_fit.xtc -o rmsf_ca.xvg -res -fit
-# gmx rmsf is part of G R O M A C S:
 #
 # S  C  A  M  O  R  G
 #
