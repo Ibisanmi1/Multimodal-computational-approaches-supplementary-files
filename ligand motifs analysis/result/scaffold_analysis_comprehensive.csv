@@ -1,0 +1,104 @@
+question,scaffold_family,metric,value,details
+1_scaffold_frequency_in_top_compounds,amide,count_in_top5,10,"total=22, pct_over_40=25.0%"
+1_scaffold_frequency_in_top_compounds,urea,count_in_top5,8,"total=11, pct_over_40=20.0%"
+1_scaffold_frequency_in_top_compounds,imidazole,count_in_top5,7,"total=12, pct_over_40=17.5%"
+1_scaffold_frequency_in_top_compounds,benzimidazole,count_in_top5,6,"total=10, pct_over_40=15.0%"
+1_scaffold_frequency_in_top_compounds,pyridine,count_in_top5,6,"total=10, pct_over_40=15.0%"
+1_scaffold_frequency_in_top_compounds,aminoglycoside,count_in_top5,5,"total=9, pct_over_40=12.5%"
+1_scaffold_frequency_in_top_compounds,indole,count_in_top5,4,"total=6, pct_over_40=10.0%"
+1_scaffold_frequency_in_top_compounds,phenyl,count_in_top5,3,"total=12, pct_over_40=7.5%"
+1_scaffold_frequency_in_top_compounds,benzene,count_in_top5,1,"total=2, pct_over_40=2.5%"
+1_scaffold_frequency_in_top_compounds,benzothiadiazole,count_in_top5,1,"total=1, pct_over_40=2.5%"
+1_scaffold_frequency_in_top_compounds,cyclohexanol,count_in_top5,1,"total=1, pct_over_40=2.5%"
+1_scaffold_frequency_in_top_compounds,purine,count_in_top5,1,"total=3, pct_over_40=2.5%"
+1_scaffold_frequency_in_top_compounds,hydrazide,count_in_top5,0,"total=1, pct_over_40=0.0%"
+1_scaffold_frequency_in_top_compounds,hydrazine,count_in_top5,0,"total=1, pct_over_40=0.0%"
+1_scaffold_frequency_in_top_compounds,pyrimidine,count_in_top5,0,"total=2, pct_over_40=0.0%"
+2_scaffold_docking_performance,cyclohexanol,mean_docking_score,-7.482,"best=-7.482, n=1"
+2_scaffold_docking_performance,benzothiadiazole,mean_docking_score,-7.239,"best=-7.239, n=1"
+2_scaffold_docking_performance,purine,mean_docking_score,-6.986,"best=-7.482, n=3"
+2_scaffold_docking_performance,imidazole,mean_docking_score,-6.784,"best=-7.503, n=12"
+2_scaffold_docking_performance,urea,mean_docking_score,-6.776,"best=-7.503, n=11"
+2_scaffold_docking_performance,benzimidazole,mean_docking_score,-6.74,"best=-7.503, n=10"
+2_scaffold_docking_performance,indole,mean_docking_score,-6.704,"best=-7.239, n=6"
+2_scaffold_docking_performance,aminoglycoside,mean_docking_score,-6.587,"best=-6.972, n=9"
+2_scaffold_docking_performance,amide,mean_docking_score,-6.412,"best=-7.482, n=22"
+2_scaffold_docking_performance,pyridine,mean_docking_score,-6.326,"best=-7.503, n=10"
+2_scaffold_docking_performance,benzene,mean_docking_score,-6.268,"best=-7.016, n=2"
+2_scaffold_docking_performance,pyrimidine,mean_docking_score,-6.167,"best=-6.344, n=2"
+2_scaffold_docking_performance,phenyl,mean_docking_score,-6.123,"best=-7.102, n=12"
+2_scaffold_docking_performance,hydrazine,mean_docking_score,-5.99,"best=-5.99, n=1"
+2_scaffold_docking_performance,hydrazide,mean_docking_score,-5.871,"best=-5.871, n=1"
+3_key_interactions_by_scaffold,amide,H-bond,88,GLU151(23); TYR192(17); GLU152(15); LYS266(14); ALA190(6); ASN191(4); ASP264(3); ASP150(3); THR265(1); ARG193(1); TYR268(1)
+3_key_interactions_by_scaffold,amide,electrostatic,20,GLU151(8); LYS154(4); GLU152(3); GLU219(3); LYS266(2)
+3_key_interactions_by_scaffold,amide,pi-stacking,9,TYR268(5); TYR192(3); PHE217(1)
+3_key_interactions_by_scaffold,amide,pi-cation,6,LYS266(6)
+3_key_interactions_by_scaffold,amide,hydrophobic,3,PHE217(2); TYR268(1)
+3_key_interactions_by_scaffold,amide,halogen,2,ARG193(1); ASP150(1)
+3_key_interactions_by_scaffold,amide,chalcogen,1,GLU152(1)
+3_key_interactions_by_scaffold,amide,pi-anion,1,ASP150(1)
+3_key_interactions_by_scaffold,amide,salt bridge,1,ARG193(1)
+3_key_interactions_by_scaffold,aminoglycoside,H-bond,37,TYR192(9); GLU152(8); GLU151(5); ASN191(4); ALA190(4); LYS266(3); ASP150(3); TYR268(1)
+3_key_interactions_by_scaffold,aminoglycoside,electrostatic,17,GLU151(8); GLU219(4); GLU152(3); LYS266(1); LYS154(1)
+3_key_interactions_by_scaffold,aminoglycoside,hydrophobic,2,PHE217(2)
+3_key_interactions_by_scaffold,benzene,H-bond,7,TYR192(3); GLU152(2); ASN191(1); GLU151(1)
+3_key_interactions_by_scaffold,benzene,electrostatic,2,LYS154(2)
+3_key_interactions_by_scaffold,benzene,hydrophobic,2,TYR268(1); PHE217(1)
+3_key_interactions_by_scaffold,benzene,chalcogen,1,GLU152(1)
+3_key_interactions_by_scaffold,benzene,pi-anion,1,ASP150(1)
+3_key_interactions_by_scaffold,benzene,pi-stacking,1,TYR268(1)
+3_key_interactions_by_scaffold,benzene,salt bridge,1,ARG193(1)
+3_key_interactions_by_scaffold,benzimidazole,H-bond,39,GLU151(10); TYR192(10); GLU152(8); ALA190(3); GLU219(3); LYS266(2); ASP264(2); ASN191(1)
+3_key_interactions_by_scaffold,benzimidazole,electrostatic,4,LYS154(3); GLU151(1)
+3_key_interactions_by_scaffold,benzimidazole,pi-cation,4,LYS266(4)
+3_key_interactions_by_scaffold,benzimidazole,pi-stacking,4,TYR268(2); TYR192(2)
+3_key_interactions_by_scaffold,benzimidazole,hydrophobic,2,TYR268(1); PHE217(1)
+3_key_interactions_by_scaffold,benzimidazole,chalcogen,1,GLU152(1)
+3_key_interactions_by_scaffold,benzimidazole,pi-anion,1,ASP150(1)
+3_key_interactions_by_scaffold,benzothiadiazole,H-bond,6,GLU151(2); GLU152(1); THR265(1); LYS266(1); ARG193(1)
+3_key_interactions_by_scaffold,benzothiadiazole,pi-stacking,1,TYR192(1)
+3_key_interactions_by_scaffold,cyclohexanol,H-bond,4,ASP264(1); TYR192(1); GLU151(1); GLU152(1)
+3_key_interactions_by_scaffold,cyclohexanol,pi-cation,2,LYS266(2)
+3_key_interactions_by_scaffold,hydrazide,H-bond,3,LYS266(1); GLU151(1); TYR192(1)
+3_key_interactions_by_scaffold,hydrazide,pi-cation,1,LYS266(1)
+3_key_interactions_by_scaffold,hydrazide,pi-stacking,1,PHE217(1)
+3_key_interactions_by_scaffold,hydrazine,H-bond,2,GLU151(1); LYS266(1)
+3_key_interactions_by_scaffold,hydrazine,electrostatic,2,GLU151(1); GLU152(1)
+3_key_interactions_by_scaffold,hydrazine,pi-stacking,2,PHE217(1); TYR268(1)
+3_key_interactions_by_scaffold,hydrazine,pi-cation,1,LYS266(1)
+3_key_interactions_by_scaffold,imidazole,H-bond,48,GLU151(13); TYR192(11); GLU152(10); ASP264(4); ALA190(3); LYS266(3); GLU219(3); ASN191(1)
+3_key_interactions_by_scaffold,imidazole,pi-cation,7,LYS266(7)
+3_key_interactions_by_scaffold,imidazole,pi-stacking,5,TYR192(3); TYR268(2)
+3_key_interactions_by_scaffold,imidazole,electrostatic,4,LYS154(3); GLU151(1)
+3_key_interactions_by_scaffold,imidazole,hydrophobic,2,TYR268(1); PHE217(1)
+3_key_interactions_by_scaffold,imidazole,chalcogen,1,GLU152(1)
+3_key_interactions_by_scaffold,imidazole,pi-anion,1,ASP150(1)
+3_key_interactions_by_scaffold,indole,H-bond,28,GLU151(12); LYS266(9); GLU152(2); TYR192(2); ASP264(1); THR265(1); ARG193(1)
+3_key_interactions_by_scaffold,indole,pi-stacking,6,TYR268(4); TYR192(2)
+3_key_interactions_by_scaffold,indole,pi-cation,1,LYS266(1)
+3_key_interactions_by_scaffold,indole,polar,1,TYR268(1)
+3_key_interactions_by_scaffold,indole,salt bridge,1,GLU152(1)
+3_key_interactions_by_scaffold,phenyl,H-bond,45,GLU151(19); LYS266(9); TYR192(7); GLU152(6); ALA190(2); ASP264(2)
+3_key_interactions_by_scaffold,phenyl,electrostatic,9,LYS154(6); LYS266(1); GLU151(1); GLU152(1)
+3_key_interactions_by_scaffold,phenyl,pi-stacking,7,TYR268(4); PHE217(2); TYR192(1)
+3_key_interactions_by_scaffold,phenyl,pi-cation,4,LYS266(4)
+3_key_interactions_by_scaffold,phenyl,salt bridge,1,ARG193(1)
+3_key_interactions_by_scaffold,purine,H-bond,11,GLU151(4); ASP264(3); GLU152(2); TYR192(1); LYS266(1)
+3_key_interactions_by_scaffold,purine,pi-cation,4,LYS266(4)
+3_key_interactions_by_scaffold,purine,pi-stacking,2,TYR192(2)
+3_key_interactions_by_scaffold,purine,polar,1,TYR268(1)
+3_key_interactions_by_scaffold,purine,salt bridge,1,GLU152(1)
+3_key_interactions_by_scaffold,pyridine,H-bond,30,GLU151(9); TYR192(7); LYS266(5); ALA190(4); GLU152(2); TYR268(1); ARG193(1); LYS137(1)
+3_key_interactions_by_scaffold,pyridine,electrostatic,7,LYS266(4); LYS154(2); GLU152(1)
+3_key_interactions_by_scaffold,pyridine,pi-cation,3,LYS266(3)
+3_key_interactions_by_scaffold,pyridine,halogen,2,ARG193(1); ASP150(1)
+3_key_interactions_by_scaffold,pyridine,pi-stacking,1,PHE217(1)
+3_key_interactions_by_scaffold,pyrimidine,H-bond,6,GLU151(2); GLU152(1); ALA190(1); TYR192(1); LYS266(1)
+3_key_interactions_by_scaffold,pyrimidine,electrostatic,2,GLU151(1); GLU152(1)
+3_key_interactions_by_scaffold,pyrimidine,pi-cation,2,LYS266(2)
+3_key_interactions_by_scaffold,pyrimidine,pi-stacking,2,PHE217(1); TYR268(1)
+3_key_interactions_by_scaffold,urea,H-bond,49,GLU151(16); LYS266(13); TYR192(9); ALA190(5); GLU152(4); THR265(1); ARG193(1)
+3_key_interactions_by_scaffold,urea,electrostatic,6,GLU151(4); GLU152(1); GLU219(1)
+3_key_interactions_by_scaffold,urea,pi-stacking,5,TYR268(4); TYR192(1)
+3_key_interactions_by_scaffold,urea,pi-cation,3,LYS266(3)
+3_key_interactions_by_scaffold,urea,hydrophobic,1,PHE217(1)
