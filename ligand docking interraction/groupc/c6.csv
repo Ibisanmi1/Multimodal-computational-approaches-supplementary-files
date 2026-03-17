@@ -1,0 +1,9 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,TYR,192,Hydrogen bond,Upper left hydroxyl,Left pyranose ring,Tyr192 forms a hydrogen bond with the upper-left sugar hydroxyl group.
+2,GLU,151,Electrostatic interaction,Protonated ammonium,Right amino sugar,Glu151 recognizes a protonated ammonium group on the right-hand sugar.
+3,GLU,151,Electrostatic interaction,Second protonated ammonium,Right amino sugar,A second Glu151 contact involves another cationic amino group on the same side of the ligand.
+4,GLU,152,Hydrogen bond,Amide NH,Lower amide linker,Glu152 accepts a hydrogen bond from the lower amide NH.
+5,ASP,150,Hydrogen bond,Terminal hydroxyl,Right-hand sugar ring,Asp150 contributes a polar contact to the terminal sugar hydroxyl group.
+6,LYS,266,Hydrogen bond,Terminal hydroxyl,Right-hand sugar ring,Lys266 also interacts with the right-hand sugar hydroxyl region.
+7,,,Other structural moiety,Aminoglycoside polysugar scaffold,Multi-ring carbohydrate core,Visible aminoglycoside polysugar scaffold in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+8,,,Other structural moiety,Hydroxyaminoethyl amide side chain,Lower polar appendage,Visible hydroxyaminoethyl amide side chain in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

@@ -1,0 +1,10 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,GLU,151,Hydrogen bond,Protonated amino sugar,Central aminoglycoside core,Glu151 recognizes a protonated amino group on the central aminoglycoside scaffold.
+2,GLU,152,Hydrogen bond,Protonated amino sugar,Central aminoglycoside core,Glu152 makes a second polar contact to an adjacent amino sugar nitrogen.
+3,TYR,192,Hydrogen bond,Hydroxyl group,Central sugar ring,Tyr192 forms a hydrogen bond with a hydroxyl-bearing sugar ring.
+4,ASN,191,Hydrogen bond,Hydroxyl group,Distal pyranose ring,Asn191 contributes an additional polar contact to a distal sugar hydroxyl group.
+5,ALA,190,Hydrogen bond,Terminal hydroxyl,Terminal pyranose ring,Ala190 is positioned to contact the terminal hydroxyl-bearing sugar.
+6,LYS,266,Electrostatic interaction,Protonated amine,Aminoglycoside amino sugar,Lys266 engages the cationic amine on the right-hand amino sugar.
+7,TYR,268,Hydrogen bond,Hydroxyl group,Right-hand sugar ring,Tyr268 contributes a polar contact to the terminal sugar hydroxyl region.
+8,,,Other structural moiety,Aminoglycoside polysugar scaffold,Multi-ring carbohydrate core,Visible aminoglycoside polysugar scaffold in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+9,,,Other structural moiety,Peripheral amino sugar appendage,Terminal cationic sugar unit,Visible peripheral amino sugar appendage in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

@@ -1,0 +1,9 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,LYS,266,Pi-cation interaction,Purine pi system,Purine core,Lys266 forms a pi-cation interaction with the purine nucleus.
+2,LYS,266,Pi-cation interaction,Imidazole face of purine,Purine core,A second Lys266 contact stabilizes the fused imidazole face of the purine ring.
+3,ASP,264,Hydrogen bond,Exocyclic NH,Purine-side linker,Asp264 accepts a hydrogen bond from the NH adjacent to the purine scaffold.
+4,TYR,192,Hydrogen bond,Amide carbonyl oxygen,Amide linker,Tyr192 donates a hydrogen bond to the linker carbonyl oxygen.
+5,GLU,151,Hydrogen bond,Linker NH,Aminoethyl linker,The linker NH donates a hydrogen bond to Glu151.
+6,GLU,152,Hydrogen bond,Tertiary alcohol,Cyclohexanol substituent,Glu152 forms a hydrogen bond with the cyclohexanol hydroxyl group.
+7,,,Other structural moiety,Cyclohexanol ring,Saturated alcohol-containing core,Visible cyclohexanol ring in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+8,,,Other structural moiety,Ethylene spacer,Flexible linker segment,Visible ethylene spacer in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

@@ -1,0 +1,11 @@
+Name,ESOL Class,Ali Class,GI absorption,BBB permeant,Pgp substrate,CYP1A2 inhibitor,log Kp (cm/s),Lipinski #violations,Bioavailability Score,PAINS #alerts,Leadlikeness #violations,Ghose #violations,Veber #violations
+Molecule 1,Soluble,Soluble,Low,No,Yes,No,-8.54,0,0.11,0,2,0,1
+Molecule 2,Soluble,Soluble,High,No,Yes,No,-8.13,0,0.56,0,2,0,0
+Molecule 3,Soluble,Soluble,High,No,Yes,No,-8.18,0,0.56,0,2,0,1
+Molecule 4,Soluble,Soluble,High,No,Yes,No,-7.92,0,0.56,0,2,0,0
+Molecule 5,Soluble,Soluble,High,No,Yes,No,-7.87,0,0.55,0,2,0,0
+Molecule 6,Soluble,Soluble,High,No,Yes,No,-7.04,0,0.55,0,0,0,0
+Molecule 7,Soluble,Soluble,High,No,Yes,No,-8.05,0,0.55,0,1,0,0
+Molecule 8,Soluble,Soluble,High,No,Yes,No,-8.1,0,0.56,0,2,0,0
+Molecule 9,Soluble,Soluble,High,No,No,No,-7.29,0,0.55,0,0,0,0
+Molecule 10,Moderately soluble,Moderately soluble,High,No,Yes,No,-6.85,0,0.56,0,1,0,0

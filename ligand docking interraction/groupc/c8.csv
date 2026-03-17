@@ -1,0 +1,8 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,GLU,152,Hydrogen bond,Exocyclic amino group,Aminopyrimidine ring,Glu152 accepts a hydrogen bond from the exocyclic amino group on the aminopyrimidine.
+2,GLU,151,Hydrogen bond,Amide NH,Salicylamide linker,Glu151 accepts a hydrogen bond from the amide NH linking the two ring systems.
+3,ALA,190,Hydrogen bond,Phenolic hydroxyl,Dihydroxyphenyl ring,The phenolic hydroxyl group forms a hydrogen bond with the Ala190 backbone region.
+4,TYR,192,Hydrogen bond,Ring nitrogen,Aminopyrimidine ring,Tyr192 forms a hydrogen bond with a ring nitrogen on the aminopyrimidine scaffold.
+5,LYS,266,Pi-cation interaction,Aromatic pi system,Dihydroxyphenyl ring,Lys266 engages the dihydroxyphenyl ring through a pi-cation interaction.
+6,,,Other structural moiety,Methylene linker,Flexible connector between ring systems,Visible methylene linker in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+7,,,Other structural moiety,Second phenolic hydroxyl,Non-bonding phenolic substituent,Visible second phenolic hydroxyl in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

@@ -1,0 +1,8 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,GLU,151,Hydrogen bond,Anilide NH,Chloroanisidine fragment,Glu151 accepts a hydrogen bond from the NH attached to the upper chloroanisidine ring.
+2,TYR,192,Hydrogen bond,Carbonyl oxygen,Central amide linker,Tyr192 donates a hydrogen bond to the linker carbonyl oxygen.
+3,ALA,190,Hydrogen bond,Linker NH,Secondary amide linker,The lower linker NH makes a hydrogen-bond contact with the Ala190 backbone region.
+4,LYS,266,Electrostatic interaction,N-oxide oxygen,Pyridine N-oxide ring,Lys266 recognizes the N-oxide group of the terminal pyridine N-oxide.
+5,ASP,150,Halogen bond / polar contact,Chloro substituent,Chloroanisidine ring,Asp150 lies close to the chlorine substituent and contributes a halogen-directed polar contact.
+6,,,Other structural moiety,Chloro-methoxy aniline ring,Halogenated anisole-like aryl core,Visible chloro-methoxy aniline ring in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+7,,,Other structural moiety,Pyridine N-oxide ring,Terminal heteroaryl tail,Visible pyridine N-oxide ring in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

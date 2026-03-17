@@ -1,0 +1,9 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,TYR,192,Hydrogen bond,Imine nitrogen,Triazole-linked imine segment,Tyr192 recognizes the imine nitrogen in the triazole-linked imine segment.
+2,TYR,192,Pi-stacking,Aromatic face,Benzodioxole ring,Tyr192 also stacks against the benzodioxole aromatic ring.
+3,TYR,268,Pi-stacking,Aromatic face,Benzodioxole ring,Tyr268 makes a second aromatic stacking interaction with the benzodioxole system.
+4,LYS,266,Pi-cation interaction,Benzodioxole pi system,Benzodioxole ring,Lys266 engages the benzodioxole ring through a pi-cation interaction.
+5,GLU,152,Hydrogen bond,Benzimidazole NH,Nitrobenzimidazole fragment,Glu152 accepts a hydrogen bond from the benzimidazole NH of the terminal nitrobenzimidazole fragment.
+6,LYS,154,Electrostatic interaction,Nitro oxygen,Nitroheteroaryl ring,Lys154 stabilizes the terminal nitro-substituted heteroaryl ring.
+7,,,Other structural moiety,Triazole heteroaryl core,Nitrogen-rich central heterocycle,Visible triazole heteroaryl core in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+8,,,Other structural moiety,Nitrobenzimidazole tail,Terminal nitroheteroaryl appendage,Visible nitrobenzimidazole tail in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

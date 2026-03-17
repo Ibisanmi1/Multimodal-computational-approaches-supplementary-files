@@ -1,0 +1,9 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,ASP,264,Hydrogen bond,Purine NH,Chloro-purine core,Asp264 accepts a hydrogen bond from the NH on the purine ring system.
+2,LYS,266,Pi-cation interaction,Aromatic pi system,Chloro-purine core,Lys266 forms a pi-cation interaction with the purine ring.
+3,TYR,192,Pi-stacking,Fused aromatic face,Chloro-purine core,Tyr192 packs against the purine aromatic core through pi-stacking.
+4,TYR,268,Polar contact,Ring nitrogen,Chloro-purine core,Tyr268 approaches the purine ring nitrogen through a polar contact.
+5,GLU,151,Hydrogen bond,Exocyclic NH,Ethylamino linker,The exocyclic amino linker donates a hydrogen bond to Glu151.
+6,GLU,152,Salt bridge / electrostatic interaction,Protonated 2H indole NH,2H indole ring,Glu152 stabilizes the lower protonated 2H indole fragment through electrostatic attraction.
+7,,,Other structural moiety,Methoxy substituent,Aryl methoxy group,Visible methoxy substituent in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+8,,,Other structural moiety,Lower 2H indole ring system,Fused heteroaromatic core,Visible lower 2H indole ring system in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

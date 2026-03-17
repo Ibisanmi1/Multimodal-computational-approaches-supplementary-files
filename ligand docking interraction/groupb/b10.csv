@@ -1,0 +1,8 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,ARG,193,Salt bridge,Carboxylate oxygen,Carboxylate substituent,Arg193 forms a salt bridge with the carboxylate group on the benzoic acid scaffold.
+2,GLU,152,Hydrogen bond,Protonated piperidine NH,Piperidine ring,Glu152 accepts a hydrogen bond from the protonated nitrogen of the piperidine substituent.
+3,TYR,192,Hydrogen bond,Carboxylate oxygen,Carboxylate substituent,Tyr192 donates a hydrogen bond to the carboxylate oxygen on the benzoic acid side chain.
+4,LYS,154,Electrostatic interaction,Sulfonyl oxygen,Arylsulfonamide fragment,Lys154 forms a strong electrostatic contact to one of the sulfonyl oxygens.
+5,LYS,154,Electrostatic interaction,Sulfonamide nitrogen,Arylsulfonamide fragment,A second Lys154 contact stabilizes the deprotonated sulfonamide nitrogen (N-) through a salt bridge.
+6,,,Other structural moiety,Difluorophenyl sulfonyl group,Halogenated aryl sulfone tail,Visible N-(3,5-difluorophenyl)sulfonamido group in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+7,,,Other structural moiety,Piperidin-1-yl substituent,Saturated nitrogen heterocycle,Visible piperidine ring attached to the central benzene in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

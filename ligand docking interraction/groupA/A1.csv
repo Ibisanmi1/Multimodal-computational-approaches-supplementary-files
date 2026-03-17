@@ -1,0 +1,8 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,GLU,151,Hydrogen bond,Urea NH,Urea linker,The urea NH donates a hydrogen bond to the carboxylate of Glu151.
+2,TYR,192,Hydrogen bond,Urea carbonyl oxygen,Urea linker,Tyr192 hydroxyl donates a hydrogen bond to the ligand carbonyl oxygen.
+3,ALA,190,Hydrogen bond,Secondary alcohol,Hydroxymethyl pyridine side chain,The chiral alcohol makes a polar hydrogen-bond contact with the Ala190 backbone region.
+4,LYS,266,Pi-cation interaction,Pyridine pi system,Pyridine ring,Lys266 forms a pi-cation contact with the terminal pyridine ring.
+5,LYS,266,Hydrogen bond / electrostatic interaction,Pyridine nitrogen,Pyridine ring,Lys266 also contacts the pyridine nitrogen through a polar electrostatic interaction.
+6,,,Other structural moiety,Difluoromethyl group,Terminal halogenated substituent,Visible difluoromethyl group in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+7,,,Other structural moiety,Benzimidazole ring system,Fused heteroaromatic core,Visible benzimidazole ring system in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

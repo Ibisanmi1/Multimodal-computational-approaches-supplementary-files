@@ -1,0 +1,10 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,TYR,192,Hydrogen bond,Hydroxyl group,Upper amino sugar,Tyr192 forms a hydrogen bond with a hydroxyl group on the upper sugar ring.
+2,TYR,192,Hydrogen bond,Bridging ether oxygen,Glycosidic linkage,A second Tyr192 contact involves the glycosidic oxygen linking the sugar units.
+3,ALA,190,Hydrogen bond,Terminal hydroxyl,Right-hand sugar ring,Ala190 makes a polar contact with the right-hand sugar hydroxyl group.
+4,GLU,151,Electrostatic interaction,Protonated amino group,Central amino sugar,Glu151 interacts with one protonated amino group on the aminoglycoside core.
+5,GLU,151,Electrostatic interaction,Protonated amino group,Right-hand amino sugar,Glu151 forms a second charge-assisted contact with another amino sugar nitrogen.
+6,GLU,152,Hydrogen bond,Lower amide / ammonium region,Amino acid-like side chain,Glu152 recognizes the lower amino-acid-like substituent.
+7,LYS,266,Hydrogen bond,Terminal hydroxyl,Right-hand sugar ring,Lys266 contributes a polar contact to the terminal hydroxyl group.
+8,,,Other structural moiety,Aminoglycoside polysugar scaffold,Multi-ring carbohydrate core,Visible aminoglycoside polysugar scaffold in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+9,,,Other structural moiety,Lower cyclic urea-like side chain,Terminal heterocyclic appendage,Visible lower cyclic urea-like side chain in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

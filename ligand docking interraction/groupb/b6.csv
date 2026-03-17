@@ -1,0 +1,5 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,GLU,152,Hydrogen bond,Amide NH,Thioacetamide linker,Glu152 accepts a hydrogen bond from the amide NH in the linker.
+2,LYS,154,Electrostatic interaction,N-oxide oxygen,Pyridine N-oxide ring,Lys154 stabilizes the pyridine N-oxide through a close electrostatic contact to an N-oxide oxygen.
+3,,,Other structural moiety,Chromane-like bicyclic ring,Oxygen-containing fused core,Visible chromane-like bicyclic ring in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+4,,,Other structural moiety,Thioether-linked pyridine N-oxide tail,Heteroaryl terminal appendage,Visible thioether-linked pyridine N-oxide tail in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

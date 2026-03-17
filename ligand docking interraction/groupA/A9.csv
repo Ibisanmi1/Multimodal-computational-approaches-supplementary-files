@@ -1,0 +1,10 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,ASP,264,Hydrogen bond,Imidazole NH,Chloropurine-like bicyclic core,Asp264 accepts a hydrogen bond from the NH on the upper bicyclic heteroaromatic scaffold.
+2,LYS,266,Pi-cation interaction,Aromatic pi system,Chloropurine-like bicyclic core,Lys266 forms a pi-cation interaction with the upper fused heteroaromatic ring.
+3,LYS,266,Hydrogen bond / electrostatic interaction,Ring nitrogen,Chloropurine-like bicyclic core,Lys266 additionally contacts a ring nitrogen on the upper heteroaromatic core.
+4,TYR,192,Pi-stacking,Aromatic face,Chloropurine-like bicyclic core,Tyr192 stacks against the bicyclic aromatic system.
+5,GLU,151,Hydrogen bond,Linker NH,Amide linker,Glu151 accepts a hydrogen bond from the linker NH.
+6,GLU,151,Hydrogen bond,Amide NH,Amide linker,A second Glu151 interaction involves the amide NH in the side chain.
+7,GLU,152,Hydrogen bond,Terminal alcohol,Hydroxypropyl side chain,Glu152 forms a hydrogen bond with the terminal alcohol group.
+8,,,Other structural moiety,Hydroxyethyl side chain,Polar aliphatic appendage,Visible hydroxyethyl side chain in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+9,,,Other structural moiety,Chloropurine ring system,Fused heteroaromatic core,Visible chloropurine ring system in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

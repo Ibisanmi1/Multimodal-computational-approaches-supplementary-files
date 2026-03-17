@@ -1,0 +1,12 @@
+Criterion,Compliance_pct,SEM
+Lipinski compliant,10.0,9.486832980505138
+High GI absorption,10.0,9.486832980505138
+P-gp non-substrate,10.0,9.486832980505138
+Bioavailability ≥ 0.55,20.0,12.64911064067352
+ESOL Soluble,10.0,9.486832980505138
+Ali Soluble,10.0,9.486832980505138
+BBB permeant,0.0,0.0
+PAINS clean,100.0,0.0
+Leadlike,20.0,12.64911064067352
+Ghose compliant,10.0,9.486832980505138
+Veber compliant,10.0,9.486832980505138

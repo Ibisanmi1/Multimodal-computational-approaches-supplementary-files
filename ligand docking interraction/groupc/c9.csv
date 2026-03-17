@@ -1,0 +1,9 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,ASN,191,Hydrogen bond,Upper sugar hydroxyl,Upper pyranose ring,Asn191 forms a hydrogen bond with a hydroxyl group on the upper sugar ring.
+2,GLU,151,Electrostatic interaction,Terminal ammonium,Upper amino sugar,Glu151 recognizes the terminal ammonium group on the upper sugar.
+3,GLU,151,Hydrogen bond,Amide carbonyl oxygen,Central amide linker,A second Glu151 contact involves the amide carbonyl in the central linker region.
+4,GLU,152,Hydrogen bond,Lower hydroxyl,Lower amino alcohol tail,Glu152 forms a hydrogen bond with the lower hydroxyl-bearing substituent.
+5,GLU,152,Electrostatic interaction,Terminal ammonium,Lower amino alcohol tail,Glu152 additionally stabilizes the lower terminal ammonium group.
+6,LYS,154,Electrostatic interaction,Terminal ammonium,Lower amino alcohol tail,Lys154 contributes a complementary cation-recognition contact to the same lower tail.
+7,,,Other structural moiety,Aminoglycoside polysugar scaffold,Multi-ring carbohydrate core,Visible aminoglycoside polysugar scaffold in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+8,,,Other structural moiety,Hydroxyaminoethyl amide side chain,Terminal polar appendage,Visible hydroxyaminoethyl amide side chain in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

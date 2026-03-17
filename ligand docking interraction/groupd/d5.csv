@@ -1,0 +1,6 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,LYS,137,Hydrogen bond,Carbonyl oxygen,Carbonyl linker,Lys137 donates a hydrogen bond to the carbonyl oxygen in the central carbonyl linker.
+2,GLU,152,Hydrogen bond,NH,N-N linker,Glu152 accepts a hydrogen bond from the NH in the central N-N linker.
+3,LYS,154,Electrostatic interaction,N-oxide oxygen,Pyridine N-oxide ring,Lys154 forms a strong electrostatic contact with the N-oxide oxygen on the terminal pyridine ring.
+4,,,Other structural moiety,1,4-benzodioxan scaffold,Fused bicyclic head group,Visible 1,4-benzodioxan scaffold in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+5,,,Other structural moiety,Pyridine N-oxide ring,Terminal N-oxide heteroaryl appendage,Visible pyridine N-oxide ring in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

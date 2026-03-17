@@ -1,0 +1,8 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,LYS,266,Hydrogen bond,Carbonyl oxygen,2,6-dimethoxycyclohexa-2,5-dien-1-one ring system,Lys266 donates a hydrogen bond to the carbonyl oxygen of the 2,6-dimethoxycyclohexa-2,5-dien-1-one ring system.
+2,TYR,268,Hydrogen bond,Methoxy oxygen,2,6-dimethoxycyclohexa-2,5-dien-1-one ring system,Tyr268 makes a second polar contact to a methoxy oxygen on the 2,6-dimethoxycyclohexa-2,5-dien-1-one ring system.
+3,GLU,151,Hydrogen bond,Hydrazone NH,Hydrazone linker,Glu151 accepts a hydrogen bond from the hydrazone NH linking the two aromatic fragments.
+4,GLU,152,Electrostatic interaction,Nitro oxygen,Nitropyridine ring,Glu152 lies close to the nitro group on the terminal pyridine ring.
+5,TYR,192,Hydrogen bond,Pyridine nitrogen,Nitropyridine ring,Tyr192 forms a polar contact with the pyridine nitrogen of the terminal heteroaromatic ring.
+6,,,Other structural moiety,Methoxy substituent,Oxygenated aryl substituent,Visible methoxy substituent in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+7,,,Other structural moiety,2,6-dimethoxycyclohexa-2,5-dien-1-one ring system,Oxygenated cyclohexadienone core,Visible 2,6-dimethoxycyclohexa-2,5-dien-1-one ring system in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

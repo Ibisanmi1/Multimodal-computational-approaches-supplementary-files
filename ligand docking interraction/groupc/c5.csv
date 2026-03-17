@@ -1,0 +1,8 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,GLU,219,Electrostatic interaction,Terminal ammonium,Left amino sugar,Glu219 forms a charge-assisted interaction with the left terminal ammonium group.
+2,GLU,152,Hydrogen bond,Upper sugar hydroxyl,Upper pyranose ring,Glu152 accepts a hydrogen bond from a hydroxyl group on the upper sugar ring.
+3,GLU,152,Hydrogen bond,Right sugar hydroxyl,Right pyranose ring,A second Glu152 contact involves a hydroxyl group on the right-hand sugar.
+4,TYR,192,Hydrogen bond,Amide carbonyl oxygen,Lower amide side chain,Tyr192 donates a hydrogen bond to the amide carbonyl in the lower side chain.
+5,PHE,217,Hydrophobic contact,Non-polar sugar face,Central aminoglycoside core,Phe217 packs against the less polar face of the central sugar assembly.
+6,,,Other structural moiety,Aminoglycoside polysugar scaffold,Multi-ring carbohydrate core,Visible aminoglycoside polysugar scaffold in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+7,,,Other structural moiety,Terminal aminoalkyl amide side chain,Flexible polar appendage,Visible terminal aminoalkyl amide side chain in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

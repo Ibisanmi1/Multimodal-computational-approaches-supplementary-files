@@ -1,1 +1,0 @@
-Please note that the number of docked conformations in the CSV files is greater than the number of input compounds. This is because Maestro generates different possible conformations for each ligand

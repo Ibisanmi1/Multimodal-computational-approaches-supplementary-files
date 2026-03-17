@@ -1,0 +1,8 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,LYS,266,Pi-cation interaction,Pyridine N-oxide pi system,Pyridine N-oxide ring,Lys266 engages the terminal pyridine N-oxide ring through a pi-cation interaction.
+2,LYS,266,Hydrogen bond / electrostatic interaction,N-oxide oxygen,Pyridine N-oxide ring,Lys266 also recognizes the N-oxide oxygen through a polar electrostatic contact.
+3,GLU,151,Hydrogen bond,Hydrazide NH,Hydrazide linker,Glu151 accepts a hydrogen bond from the hydrazide NH in the central linker.
+4,TYR,192,Hydrogen bond,Carbonyl oxygen,Ester / amide carbonyl linker,Tyr192 donates a hydrogen bond to the carbonyl oxygen adjacent to the phenoxyethyl side chain.
+5,PHE,217,Pi-stacking,Phenyl ring,Phenoxyethyl fragment,Phe217 stacks against the terminal phenyl ring of the phenoxyethyl substituent.
+6,,,Other structural moiety,Phenoxyethyl fragment,Hydrophobic ether-linked tail,Visible phenoxyethyl fragment in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+7,,,Other structural moiety,Acylhydrazide linker,Central hydrogen-bonding linker,Visible acylhydrazide linker in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

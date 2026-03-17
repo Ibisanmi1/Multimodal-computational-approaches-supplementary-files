@@ -1,0 +1,13 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,TYR,192,Hydrogen bond,Amide carbonyl oxygen,Amide linker,Tyr192 hydroxyl donates a hydrogen bond to the amide carbonyl oxygen.
+2,TYR,192,Hydrogen bond,Amide NH,Amide linker,The amide NH donates a hydrogen bond to Tyr192 side chain.
+3,ASN,191,Hydrogen bond,Amide carbonyl oxygen,Amide linker,Asn191 donates a hydrogen bond to the amide carbonyl oxygen.
+4,GLU,151,Hydrogen bond / salt bridge,Protonated benzimidazole nitrogen (N+),Protonated benzimidazole moiety,Glu151 accepts a hydrogen bond from the protonated nitrogen of the lower benzimidazole.
+5,GLU,152,Hydrogen bond,Ring NH,Protonated benzimidazole moiety,The N-H of the lower benzimidazole donates a hydrogen bond to Glu152.
+6,GLU,152,Chalcogen bond,Sulfur atom (linker),Thioether linker,Sulfur linking the central chain to the lower benzimidazole forms a directed interaction (chalcogen bond) with Glu152.
+7,ASP,150,Pi-anion interaction,Aromatic pi system,Top benzimidazole benzene ring,Asp150 forms an anion-pi interaction with the benzene ring of the top benzimidazole moiety.
+8,TYR,268,Pi-pi stacking,Benzene ring,Top benzimidazole moiety,The benzene ring of the top benzimidazole shows pi-pi stacking with Tyr268.
+9,TYR,268,Hydrophobic,Methyl group,Top benzimidazole moiety,The methyl substituent on the top benzimidazole makes hydrophobic contact with Tyr268.
+10,PHE,217,Hydrophobic,Methyl group,Bottom benzimidazole moiety,The methyl substituent on the bottom benzimidazole makes hydrophobic contact with Phe217.
+11,,,Other structural moiety,Methyl-substituted benzimidazole ring,Top fused heteroaromatic core,Visible methyl-substituted benzimidazole moiety in the ligand scaffold; the ligand contains two benzimidazole units connected by an amide-thioether linker.
+12,,,Other structural moiety,Methyl-substituted protonated benzimidazole ring,Bottom fused heteroaromatic core,Visible methyl-substituted protonated benzimidazole moiety; the lower heterocycle is protonated (N+) and participates in key electrostatic contacts with Glu151/Glu152.

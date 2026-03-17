@@ -1,0 +1,9 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,TYR,268,Pi-stacking,Indole aromatic face,Indole ring,Tyr268 stacks against the indole ring system.
+2,LYS,266,Hydrogen bond / electrostatic interaction,Indole nitrogen,Indole ring,Lys266 recognizes the indole nitrogen through a polar interaction.
+3,LYS,266,Hydrogen bond / electrostatic interaction,Carboxylate oxygen,Alpha-carboxylate substituent,Lys266 also contacts the terminal carboxylate on the indole side chain.
+4,GLU,151,Hydrogen bond,Amide NH,Amide/urea linker,Glu151 accepts a hydrogen bond from the amide NH.
+5,GLU,151,Hydrogen bond,Urea carbonyl oxygen,Amide/urea linker,A second Glu151 contact involves the linker carbonyl oxygen.
+6,TYR,192,Hydrogen bond,Distal amide carbonyl oxygen,Fluoroanilide tail,Tyr192 donates a hydrogen bond to the distal amide carbonyl near the fluoroanilide tail.
+7,,,Other structural moiety,Fluorophenyl ring,Halogenated aryl tail,Visible fluorophenyl ring in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+8,,,Other structural moiety,Indole ring system,Fused heteroaromatic core,Visible indole ring system in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

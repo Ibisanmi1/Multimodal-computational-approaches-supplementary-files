@@ -1,0 +1,10 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,ASN,191,Hydrogen bond,Hydroxymethyl group,Upper side chain,Asn191 forms a hydrogen bond with the upper hydroxymethyl substituent.
+2,TYR,192,Hydrogen bond,Sugar hydroxyl,Left pyranose ring,Tyr192 recognizes a hydroxyl group on the left sugar ring.
+3,GLU,151,Hydrogen bond,Linker NH,Central peptide-like linker,Glu151 accepts a hydrogen bond from the central linker NH.
+4,GLU,151,Electrostatic interaction,Protonated amino sugar,Central aminoglycoside core,A second Glu151 contact involves a protonated amino group on the central ring system.
+5,GLU,152,Electrostatic interaction,Terminal ammonium,Lower amino alcohol tail,Glu152 stabilizes the lower terminal ammonium group.
+6,ASP,150,Hydrogen bond,Terminal ammonium / hydroxyl region,Lower amino alcohol tail,Asp150 contributes an additional polar contact to the lower cationic tail.
+7,GLU,219,Electrostatic interaction,Terminal ammonium,Lower amino alcohol tail,Glu219 also interacts with the lower cationic substituent.
+8,,,Other structural moiety,Aminoglycoside polysugar scaffold,Multi-ring carbohydrate core,Visible aminoglycoside polysugar scaffold in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+9,,,Other structural moiety,Hydroxyethyl amide side chain,Lower polar appendage,Visible hydroxyethyl amide side chain in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

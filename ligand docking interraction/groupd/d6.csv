@@ -1,0 +1,9 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,ASP,264,Hydrogen bond,Phenolic hydroxyl,Hydroxyphenyl ring,Asp264 accepts a hydrogen bond from the para-hydroxyl group on the phenyl ring.
+2,TYR,192,Hydrogen bond,Ring nitrogen,Nitrogen-rich central heterocycle,Tyr192 recognizes a ring nitrogen in the central heterocycle.
+3,GLU,151,Hydrogen bond,Exocyclic NH,Nitrogen-rich linker region,Glu151 accepts a hydrogen bond from one NH attached to the central heterocycle.
+4,GLU,151,Hydrogen bond,Second exocyclic NH,Nitrogen-rich linker region,A second Glu151 interaction involves the neighboring NH in the same heteroatom-rich linker region.
+5,GLU,152,Hydrogen bond,Benzimidazole NH,Nitrobenzimidazole fragment,Glu152 forms a hydrogen bond with the NH on the lower nitrobenzimidazole-like ring.
+6,LYS,154,Electrostatic interaction,Nitro oxygen,Nitrobenzimidazole fragment,Lys154 stabilizes the nitro substituent through a charge-assisted polar interaction.
+7,,,Other structural moiety,Hydroxyphenyl ring,Aromatic head group,Visible hydroxyphenyl ring in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+8,,,Other structural moiety,Nitrobenzimidazole tail,Terminal nitroheteroaryl appendage,Visible nitrobenzimidazole tail in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

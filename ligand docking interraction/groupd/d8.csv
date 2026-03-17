@@ -1,0 +1,9 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,TYR,192,Pi-stacking,Aromatic face,Benzodioxole ring,Tyr192 stacks against the benzodioxole aromatic system.
+2,TYR,268,Hydrogen bond,Dioxole oxygen,Benzodioxole ring,Tyr268 forms a polar contact with one of the benzodioxole oxygens.
+3,LYS,266,Pi-cation interaction,Benzodioxole pi system,Benzodioxole ring,Lys266 engages the benzodioxole ring through a pi-cation interaction.
+4,ASP,264,Hydrogen bond,Amide carbonyl oxygen,Central amide linker,Asp264 recognizes the carbonyl oxygen in the central linker.
+5,GLU,151,Hydrogen bond,Amide NH,Central amide linker,Glu151 accepts a hydrogen bond from the linker NH.
+6,GLU,152,Electrostatic interaction,Nitro oxygen,Nitroanilide ring,Glu152 lies close to the nitro group on the lower aromatic ring.
+7,,,Other structural moiety,Benzodioxole ring,Fused oxygen-containing aromatic core,Visible benzodioxole ring in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+8,,,Other structural moiety,N-methyl amide center,Tertiary amide linker segment,Visible n-methyl amide center in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

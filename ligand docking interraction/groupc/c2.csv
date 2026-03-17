@@ -1,0 +1,8 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,GLU,151,Hydrogen bond,Cyclic urea NH,Cyclic urea side chain,Glu151 accepts a hydrogen bond from the NH in the cyclic urea-like side chain.
+2,GLU,152,Electrostatic interaction,Protonated amino sugar,Aminoglycoside core,Glu152 stabilizes a protonated amino sugar on the central scaffold.
+3,GLU,219,Electrostatic interaction,Terminal ammonium,Left terminal amino sugar,Glu219 forms a charge-assisted interaction with the terminal ammonium group.
+4,TYR,192,Hydrogen bond,Cyclic urea carbonyl oxygen,Cyclic urea side chain,Tyr192 donates a hydrogen bond to the carbonyl oxygen of the cyclic urea moiety.
+5,PHE,217,Hydrophobic contact,Aliphatic sugar face,Aminoglycoside core,Phe217 packs against the less polar face of the aminoglycoside scaffold.
+6,,,Other structural moiety,Aminoglycoside polysugar scaffold,Multi-ring carbohydrate core,Visible aminoglycoside polysugar scaffold in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+7,,,Other structural moiety,Cyclic urea side chain,Terminal heterocyclic appendage,Visible cyclic urea side chain in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

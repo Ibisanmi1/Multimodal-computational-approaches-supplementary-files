@@ -1,0 +1,7 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,GLU,151,Hydrogen bond,Secondary amine NH,Central linker,Glu151 accepts a hydrogen bond from the linker NH joining the bicyclic core to the pyridine N-oxide fragment.
+2,GLU,151,Hydrogen bond,Methoxy oxygen / ring oxygen,Benzoxathiole-like ring,A second Glu151 contact involves an oxygen-bearing substituent on the left bicyclic ring.
+3,LYS,266,Electrostatic interaction,N-oxide oxygen,Pyridine N-oxide ring,Lys266 recognizes the N-oxide group of the terminal pyridine N-oxide ring.
+4,LYS,266,Hydrogen bond / electrostatic interaction,Pyridine nitrogen,Pyridine N-oxide ring,Lys266 also interacts with the heteroaromatic nitrogen of the pyridine N-oxide ring.
+5,,,Other structural moiety,Methoxybenzothiopyran-like scaffold,Fused sulfur-containing core,Visible methoxybenzothiopyran-like scaffold in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+6,,,Other structural moiety,Nitrophenyl ring,Electron-poor aromatic tail,Visible nitrophenyl ring in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

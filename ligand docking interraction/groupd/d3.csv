@@ -1,0 +1,7 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,ARG,193,Hydrogen bond,Acetyl carbonyl oxygen,Acetophenone fragment,Arg193 donates a hydrogen bond to the acetyl carbonyl on the left aromatic ring.
+2,TYR,192,Hydrogen bond,Enone carbonyl oxygen,Chalcone-like linker,Tyr192 recognizes the central enone carbonyl oxygen.
+3,GLU,151,Hydrogen bond / electrostatic interaction,N-oxide oxygen,Pyridine N-oxide ring,Glu151 interacts with the N-oxide oxygen on the terminal pyridine ring.
+4,LYS,266,Electrostatic interaction,N-oxide oxygen,Pyridine N-oxide ring,Lys266 forms a complementary polar interaction with the same N-oxide group.
+5,,,Other structural moiety,Aryl ketone fragment,Left aromatic carbonyl segment,Visible aryl ketone fragment in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+6,,,Other structural moiety,Styryl linker,Conjugated alkene connector,Visible styryl linker in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

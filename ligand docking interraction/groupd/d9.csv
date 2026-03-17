@@ -1,0 +1,7 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,GLU,152,Hydrogen bond,Protonated hydrazone NH,Hydrazone linker,Glu152 accepts a hydrogen bond from the protonated hydrazone NH in the central linker.
+2,LYS,154,Electrostatic interaction,Sulfone oxygen,Aryl sulfone group,Lys154 forms a strong electrostatic interaction with one sulfone oxygen.
+3,LYS,154,Electrostatic interaction,Second sulfone oxygen,Aryl sulfone group,A second Lys154 contact involves the other sulfone oxygen on the same ring system.
+4,GLU,151,Hydrogen bond,Protonated amidrazone NH,Amidrazone linker,Glu151 forms a second polar contact to the protonated amidrazone NH in the central linker.
+5,,,Other structural moiety,Terminal phenyl ring,Hydrophobic aromatic head group,Visible terminal phenyl ring in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+6,,,Other structural moiety,Disulfone-substituted phenyl core,Electron-poor sulfone-bearing scaffold,Visible disulfone-substituted phenyl core in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

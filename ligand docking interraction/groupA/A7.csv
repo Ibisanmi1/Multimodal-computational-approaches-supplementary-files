@@ -1,0 +1,8 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,ALA,190,Hydrogen bond,Phenolic OH,Anisole-phenol ring,The phenolic hydroxyl forms a hydrogen bond with the Ala190 backbone region.
+2,TYR,192,Hydrogen bond,Urea carbonyl oxygen,Urea linker,Tyr192 donates a hydrogen bond to the urea carbonyl oxygen.
+3,GLU,151,Hydrogen bond,Urea NH,Urea linker,Glu151 accepts a hydrogen bond from the urea NH.
+4,GLU,151,Hydrogen bond,Secondary amine NH,Aminoethyl bridge,A second Glu151 contact involves the benzylic secondary amine in the linker.
+5,LYS,266,Pi-cation interaction,Anisole pi system,Methoxyphenyl ring,Lys266 forms a pi-cation interaction with the upper anisole ring.
+6,,,Other structural moiety,Benzimidazole ring system,Fused heteroaromatic core,Visible benzimidazole ring system in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+7,,,Other structural moiety,Difluoromethyl group,Terminal halogenated substituent,Visible difluoromethyl group in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

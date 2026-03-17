@@ -1,0 +1,10 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,GLU,151,Hydrogen bond,Protonated ammonium,Terminal cationic side chain,Glu151 accepts a hydrogen bond from the ligand terminal ammonium group.
+2,GLU,152,Hydrogen bond,Ring hydroxyl,Glycosidic sugar ring,Glu152 forms a hydrogen bond with a hydroxyl group on the central sugar ring.
+3,ASP,150,Hydrogen bond,Amide NH,Linker amide region,Asp150 recognizes the amide NH near the central linker region.
+4,GLU,219,Electrostatic interaction,Terminal ammonium,Distal amino sugar,Glu219 forms a charge-assisted interaction with the distal ammonium group.
+5,TYR,192,Hydrogen bond,Hydroxyl group,Sugar ring hydroxyl region,Tyr192 forms a hydrogen bond with a hydroxyl-bearing sugar unit.
+6,ASN,191,Hydrogen bond,Hydroxyl group,Sugar ring hydroxyl region,Asn191 contributes a second polar contact to the same hydroxyl-rich region.
+7,ALA,190,Hydrogen bond,Hydroxyl group,Terminal sugar ring,Ala190 contacts a hydroxyl group on the terminal sugar ring.
+8,,,Other structural moiety,Aminoglycoside polysugar scaffold,Multi-ring carbohydrate core,Visible aminoglycoside polysugar scaffold in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+9,,,Other structural moiety,Hydroxyaminoethyl carbamoyl side chain,Upper polar appendage,Visible hydroxyaminoethyl carbamoyl side chain in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

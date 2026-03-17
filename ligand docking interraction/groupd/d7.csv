@@ -1,0 +1,10 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,GLU,151,Hydrogen bond,Hydrazino NH,Hydrazinopyrimidine linker,Glu151 accepts a hydrogen bond from the NH in the central hydrazine-like linker.
+2,GLU,151,Electrostatic interaction,Nitro group oxygen,Nitroanilide ring,A second Glu151 contact lies close to the nitro-substituted left aromatic ring.
+3,GLU,152,Electrostatic interaction,Nitro group oxygen,Nitroanilide ring,Glu152 further recognizes the nitro functionality on the left aromatic ring.
+4,PHE,217,Pi-stacking,Aromatic face,Left nitrophenyl ring,Phe217 stacks against the left nitrophenyl fragment.
+5,TYR,268,Pi-stacking,Aromatic face,Quinoline ring,Tyr268 stacks against the right quinoline ring system.
+6,LYS,266,Pi-cation interaction,Quinoline pi system,Quinoline ring,Lys266 engages the quinoline ring through a pi-cation interaction.
+7,LYS,266,Hydrogen bond / electrostatic interaction,Quinoline nitrogen,Quinoline ring,Lys266 also contacts the quinoline nitrogen through a polar interaction.
+8,,,Other structural moiety,Nitrophenyl ring,Electron-poor aromatic head group,Visible nitrophenyl ring in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+9,,,Other structural moiety,Hydrazinopyrimidine core,Nitrogen-rich central heterocycle,Visible hydrazinopyrimidine core in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.

@@ -1,0 +1,7 @@
+No.,Protein Residue,Position,Interaction Type,Exact Ligand Atom / Group,Ligand Structural Part,Interaction Description
+1,GLU,219,Hydrogen bond / electrostatic interaction,Protonated NH,Protonated benzimidazole moiety,Glu219 stabilizes the upper cationic benzimidazole ring through hydrogen bonding and charge complementarity.
+2,GLU,151,Hydrogen bond,Protonated NH,Protonated benzimidazole moiety,Glu151 forms a hydrogen bond with the protonated benzimidazole NH.
+3,GLU,152,Hydrogen bond,Protonated NH,Protonated benzimidazole moiety,Glu152 makes a second polar contact to the cationic benzimidazole fragment.
+4,TYR,192,Hydrogen bond,Imidazole-like nitrogen,Benzimidazole ring,Tyr192 interacts with the lower benzimidazole nitrogen through hydrogen bonding.
+5,,,Other structural moiety,Benzylic methylene linker,Aryl-heteroaryl spacer,Visible benzylic methylene linker in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
+6,,,Other structural moiety,Terminal alkyl substituent,Benzimidazole side substituent,Visible terminal alkyl substituent in the ligand scaffold from the 2D interaction image; included as an additional structural feature that is present in the compound but not listed as a direct bond-forming interaction.
