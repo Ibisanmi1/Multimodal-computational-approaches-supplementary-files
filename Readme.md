@@ -1,3 +1,7 @@
+Cite this article
+Ibisanmi, T.A., Jiang, X., Khan, R.A. et al. Multimodal computational discovery of MvfR inhibitors targeting quorum sensing in multi-drug-resistant Pseudomonas aeruginosa. Sci Rep (2026). https://doi.org/10.1038/s41598-026-50613-z
+
+
 # Supplementary Materials: Computational Drug Discovery Against Pseudomonas aeruginosa
 
 ## Overview
